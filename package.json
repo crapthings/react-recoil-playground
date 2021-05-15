@@ -6,5 +6,14 @@
   },
   "devDependencies": {
     "snowpack": "^3.0.1"
+  },
+  "dependencies": {
+    "faker": "^5.5.3",
+    "lodash": "^4.17.21",
+    "mobx": "^6.3.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "recoil": "^0.3.0",
+    "rxjs": "^7.0.1"
   }
 }
